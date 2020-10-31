@@ -21,7 +21,7 @@ amount spent in the gallery.</br>
 ***SERVER :*** Local Host</br>
 ***IDE :*** Sublime Text Editor</br>
 
-**Entities and their attributes:**</br>
+***Entities and their attributes:***</br>
 ***Customers Entity:*** Customer ID, NAme, Address, amount</br>
 ***artist Entity:*** Name, Style, BirthPlace, Age</br>
 ***artworks Entity:*** Year, Title, Type, Price</br>
